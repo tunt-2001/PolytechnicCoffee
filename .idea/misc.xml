@@ -1,0 +1,68 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/PolyCoffee-DuAn1/app/src/main/res/drawable-v24/ic_edit.xml" value="0.346" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/PolyCoffee-DuAn1/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/PolyCoffee-DuAn1/app/src/main/res/layout/dialog_sanpham.xml" value="0.3625" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/PolyCoffee-DuAn1/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Work/DuAn1/PolyCoffee/app/src/main/res/drawable/icon_menu.xml" value="0.14" />
+        <entry key="..\:/Work/DuAn1/PolyCoffee/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Work/DuAn1/PolyCoffee/app/src/main/res/layout/dialog_choosen.xml" value="0.34782608695652173" />
+        <entry key="..\:/Work/DuAn1/PolyCoffee/app/src/main/res/layout/dialog_loaisp.xml" value="0.358695652173913" />
+        <entry key="..\:/Work/DuAn1/PolyCoffee/app/src/main/res/layout/dialog_user.xml" value="0.33" />
+        <entry key="..\:/Work/DuAn1/PolyCoffee/app/src/main/res/layout/fragment_menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/Work/DuAn1/PolyCoffee/app/src/main/res/layout/fragment_qltk.xml" value="0.3625" />
+        <entry key="..\:/Work/DuAn1/PolyCoffee/app/src/main/res/layout/item_menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/Work/DuAn1/PolyCoffee/app/src/main/res/layout/item_qltk.xml" value="0.34782608695652173" />
+        <entry key="..\:/Work/DuAn1/PolyCoffee/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable-v24/filter.xml" value="0.3455" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable-v24/icon_menuban.xml" value="0.342" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable-v24/outline_calendar_today_24.xml" value="0.3465" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable-v24/outline_diachi_24.xml" value="0.3465" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable-v24/outline_lock_24.xml" value="0.3465" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable-v24/outline_person_outline_24.xml" value="0.1555" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable-v24/outline_phone_24.xml" value="0.3465" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable-v24/outline_search_24.xml" value="0.3465" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable/bordernavshape.xml" value="0.3465" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable/navshapecorner.xml" value="0.3465" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/drawable/shapecorner.xml" value="0.25" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout-v26/item_user.xml" value="0.18229166666666666" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout-v31/item_menu.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/activity_change_password.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/activity_order.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/activity_sub_menu.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/dialog_choosen.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/dialog_hoadon.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/dialog_loaisp.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/dialog_order.xml" value="0.3614583333333333" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/dialog_profile.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/dialog_sanpham.xml" value="0.33" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/dialog_user.xml" value="0.33" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/fragment_menu.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/fragment_order.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/fragment_profile.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/fragment_show_s_p.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/fragment_thong_ke.xml" value="0.33" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/fragment_user.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/iem_thongke.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/item_ban.xml" value="0.33" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/item_hoadon.xml" value="0.3614583333333333" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/item_listsptronghd.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/item_menu.xml" value="0.5" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/item_sp.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/item_thongke.xml" value="0.3625" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/layout/item_user.xml" value="0.5" />
+        <entry key="..\:/Work/PolyCoffee-DuAn1/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

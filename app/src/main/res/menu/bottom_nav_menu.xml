@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_qltk"
+        android:icon="@drawable/icon_qltk"
+        android:title="@string/title_qltk" />
+
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/icon_menu"
+        android:title="@string/title_menu" />
+
+    <item
+        android:id="@+id/navigation_order"
+        android:icon="@drawable/icon_order"
+        android:title="@string/title_order" />
+    <item
+        android:id="@+id/navigation_thongke"
+        android:icon="@drawable/icon_thong_ke"
+        android:title="@string/title_thongke" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/icon_profile"
+        android:title="@string/title_profile" />
+
+</menu>

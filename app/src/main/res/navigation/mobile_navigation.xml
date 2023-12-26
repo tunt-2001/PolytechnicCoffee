@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_profile">
+
+    <fragment
+        android:id="@+id/navigation_qltk"
+        android:name="com.example.polycoffee.fragments.UserFragment"
+        android:label="@string/title_qltk"
+        tools:layout="@layout/fragment_user" />
+
+    <fragment
+        android:id="@+id/navigation_menu"
+        android:name="com.example.polycoffee.fragments.MenuFragment"
+        android:label="@string/title_menu"
+        tools:layout="@layout/fragment_menu" />
+
+    <fragment
+        android:id="@+id/navigation_order"
+        android:name="com.example.polycoffee.fragments.OrderFragment"
+        android:label="@string/title_order"
+        tools:layout="@layout/fragment_order" />
+    <fragment
+        android:id="@+id/navigation_thongke"
+        android:name="com.example.polycoffee.fragments.ThongKeFragment"
+        android:label="@string/title_thongke"
+        tools:layout="@layout/fragment_thong_ke" />
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.polycoffee.fragments.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PolyCoffee</string>
+    <string name="title_qltk">QLTK</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_order">Order</string>
+    <string name="title_thongke">Thống kê</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_main">Main</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="oldPass">Nhập mật khẩu cũ</string>
+    <string name="newPass">Nhập mật khẩu mới</string>
+    <string name="rePass">Nhập lại mật khẩu mới</string>
+    <string name="saveBtn">Cập nhật mật khẩu</string>
+    <string name="cancelBtn">Hủy</string>
+</resources>

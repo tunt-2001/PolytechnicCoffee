@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "366449180133",
+    "firebase_url": "https://tcoffee-ed8ff-default-rtdb.firebaseio.com",
+    "project_id": "tcoffee-ed8ff",
+    "storage_bucket": "tcoffee-ed8ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263683785935:android:4164e628587e04cd6ea3ba",
+        "android_client_info": {
+          "package_name": "com.example.polycoffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv1IIyyVBhQIileFiqSawq2x_tRvia8Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

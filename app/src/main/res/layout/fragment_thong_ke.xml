@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.ThongKeFragment">
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/thongke_tuNgay"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:minHeight="48dp"
+        app:boxStrokeWidth="2dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.048"
+        android:clickable="true"
+        app:startIconDrawable="@drawable/outline_calendar_today_24"
+        android:focusable="true">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Từ ngày"
+            android:textColor="#A9000000"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="32dp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        app:boxStrokeWidth="2dp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/thongke_denNgay"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:minHeight="48dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.139"
+        app:startIconDrawable="@drawable/outline_calendar_today_24">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Đến ngày"
+            android:inputType="textPersonName"
+            android:textColor="#A9000000"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="32dp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/thongke_resultBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/thongke_denNgay"
+        app:layout_constraintVertical_bias="0.036" />
+
+    <TextView
+        android:id="@+id/thongke_tongLoiNhuan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tổng lợi nhuận"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.718"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/thongke_resultBtn"
+        app:layout_constraintVertical_bias="0.02" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/thongke_recyclerView"
+        android:layout_marginTop="30dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/thongke_tongLoiNhuan" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
